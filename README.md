@@ -1,8 +1,8 @@
 # 💫 About Me:
 🙋‍♂️ Under-graduate Computer Science Student [COMSATS_Islamabad]<br>👉 Former Web Developer lead 2022-2023 [COMSATS_Islamabad][CMC_CUI]<br>👉 Event co-lead 2023-Present [COMSATS_Islamabad][gdsc_cui]<br>💻 Intermediate Level React native Developer (Striving to Become Expert)<br>💻 Intermediate Level MERN Stack Developer (particularly backend)<br>✨ Interested in Machine Learning, Mobile Application Development, Deep Learning<br>📫 Reach out to me at: muneeb244@yahoo.com
 
-
-
+<br>
+<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/muneeb244) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_muneeb0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muneeb244) 
