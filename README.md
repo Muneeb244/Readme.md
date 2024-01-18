@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙋‍♂️ Under-graduate Computer Science Student [COMSATS_Islamabad]<br>👉 Former Web Developer lead 2022-2023 [COMSATS_Islamabad][CMC_CUI]<br>👉 Former Event co-lead 2023 [COMSATS_Islamabad][GDSC_CUI]<br>💻 React native Developer (Striving to Become Expert)<br>💻 MERN Stack Developer<br>✨ Interested in creating innovative and robust solutions using MERN Stack<br>📫 Reach out to me at: muneeb244@yahoo.com
+🙋‍♂️ Final year Computer Science Student [COMSATS_Islamabad]<br>👉 Former Web Developer lead 2022-2023 [COMSATS_Islamabad][CMC_CUI]<br>👉 Former Event co-lead 2023 [COMSATS_Islamabad][GDSC_CUI]<br>💻 React native Developer <br>💻 MERN Stack Developer<br>✨ Interested in creating innovative and robust solutions using MERN Stack<br>📫 Reach out to me at: muneeb244@yahoo.com
 
 
 ## 🌐 Socials:
