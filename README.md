@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙋‍♂️ Under-graduate Computer Science Student [COMSATS_Islamabad]<br>👉 MERN Stack intern @OneCrew Technologies <br>👉 Former Web Developer lead 2022-2023 [COMSATS_Islamabad][CMC_CUI]<br>👉 Former Event co-lead 2023-Present [COMSATS_Islamabad][GDSC_CUI]<br>💻 Intermediate Level React native Developer (Striving to Become Expert)<br>💻 Intermediate Level MERN Stack Developer<br>✨ Interested in Machine Learning, Deep Learning, Mobile Application Development and MERN Stack<br>📫 Reach out to me at: muneeb244@yahoo.com
+🙋‍♂️ Under-graduate Computer Science Student [COMSATS_Islamabad]<br>👉 Former Web Developer lead 2022-2023 [COMSATS_Islamabad][CMC_CUI]<br>👉 Former Event co-lead 2023 [COMSATS_Islamabad][GDSC_CUI]<br>💻 React native Developer (Striving to Become Expert)<br>💻 MERN Stack Developer<br>✨ Interested in creating innovative and robust solutions using MERN Stack<br>📫 Reach out to me at: muneeb244@yahoo.com
 
 
 ## 🌐 Socials:
